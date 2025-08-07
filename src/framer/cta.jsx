@@ -1212,10 +1212,10 @@ var Component3 = /* @__PURE__ */ React3.forwardRef(function (props, ref) {
 var css6 = [
 	"@supports (aspect-ratio: 1) { body { --framer-aspect-ratio-supported: auto; } }",
 	".framer-J5ZEz.framer-1x72hi8, .framer-J5ZEz .framer-1x72hi8 { display: block; }",
-	".framer-J5ZEz.framer-lq1iae { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 100px 0px 100px 0px; position: relative; width: 1200px; }",
+	".framer-J5ZEz.framer-lq1iae { align-content: center; align-items: center; display: flex; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: min-content; justify-content: center; overflow: hidden; padding: 100px 0px 100px 0px; position: relative; width: 100%; }",
 	".framer-J5ZEz .framer-1jrrzjx-container { flex: 1 0 0px; height: auto; position: relative; width: 1px; }",
-	".framer-J5ZEz.framer-v-1eacoaa.framer-lq1iae { padding: 80px 0px 80px 0px; width: 810px; }",
-	".framer-J5ZEz.framer-v-19yr4ub.framer-lq1iae { padding: 60px 0px 60px 0px; width: 390px; }",
+	".framer-J5ZEz.framer-v-1eacoaa.framer-lq1iae { padding: 80px 0px 80px 0px; width: 100%; }",
+	".framer-J5ZEz.framer-v-19yr4ub.framer-lq1iae { padding: 60px 0px 60px 0px; width: 100%; }",
 ];
 var FramerMFLZMQtsg = withCSS3(Component3, css6, "framer-J5ZEz");
 var stdin_default3 = FramerMFLZMQtsg;

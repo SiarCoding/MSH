@@ -15,9 +15,9 @@ export default function App() {
         <AboutFramerComponent.Responsive/>
         <ProjekteFramerComponent.Responsive/>
         <ServicesFramerComponent.Responsive/>
-        <CtaFramerComponent.Responsive/>
         <BlogsFramerComponent.Responsive/>
       </div>
+      <CtaFramerComponent.Responsive/>
     </div>
   );
 };

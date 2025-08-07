@@ -316,7 +316,7 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 													) => {
 														bbwOZ_kv_Wt09GTVq82 ??= "";
 														return (
-															<LayoutGroup id={`Wt09GTVq8-${idWt09GTVq82}`}>
+															<LayoutGroup key={idWt09GTVq82} id={`Wt09GTVq8-${idWt09GTVq82}`}>
 																<PathVariablesContext.Provider
 																	value={{
 																		bbwOZ_kv_: bbwOZ_kv_Wt09GTVq82,

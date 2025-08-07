@@ -445,7 +445,7 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 														c056J5fDhO58UErRBA2 ??= "";
 														zB_4_J7KJO58UErRBA2 ??= "";
 														return (
-															<LayoutGroup id={`O58UErRBA-${idO58UErRBA2}`}>
+															<LayoutGroup key={idO58UErRBA2} id={`O58UErRBA-${idO58UErRBA2}`}>
 																<PathVariablesContext.Provider
 																	value={{
 																		zB_4_J7KJ: zB_4_J7KJO58UErRBA2,

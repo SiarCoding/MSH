@@ -385,7 +385,7 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 															Grw0eKwIcEC5BU2Zku2 ??= "";
 															bbwOZ_kv_EC5BU2Zku2 ??= "";
 															return (
-																<LayoutGroup id={`EC5BU2Zku-${idEC5BU2Zku2}`}>
+																<LayoutGroup key={idEC5BU2Zku2} id={`EC5BU2Zku-${idEC5BU2Zku2}`}>
 																	<PathVariablesContext.Provider
 																		value={{
 																			bbwOZ_kv_: bbwOZ_kv_EC5BU2Zku2,
@@ -648,7 +648,7 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 															ijz0mlVW5HPBIGyOsm2 ??= "";
 															bbwOZ_kv_HPBIGyOsm2 ??= "";
 															return (
-																<LayoutGroup id={`HPBIGyOsm-${idHPBIGyOsm2}`}>
+																<LayoutGroup key={idHPBIGyOsm2} id={`HPBIGyOsm-${idHPBIGyOsm2}`}>
 																	<PathVariablesContext.Provider
 																		value={{
 																			bbwOZ_kv_: bbwOZ_kv_HPBIGyOsm2,

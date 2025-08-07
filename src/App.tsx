@@ -9,13 +9,15 @@ import BlogsFramerComponent from './framer/blogs'
 
 export default function App() {
   return (
-    <div className='flex flex-col items-center gap-3 bg-[rgb(245,_241, 229)]'>
+    <div className='flex flex-col w-full bg-[rgb(245,_241, 229)]'>
       <HeroFramerComponent.Responsive/>
-      <AboutFramerComponent.Responsive/>
-      <ProjekteFramerComponent.Responsive/>
-      <ServicesFramerComponent.Responsive/>
-      <CtaFramerComponent.Responsive/>
-      <BlogsFramerComponent.Responsive/>
+      <div className='flex flex-col items-center gap-3'>
+        <AboutFramerComponent.Responsive/>
+        <ProjekteFramerComponent.Responsive/>
+        <ServicesFramerComponent.Responsive/>
+        <CtaFramerComponent.Responsive/>
+        <BlogsFramerComponent.Responsive/>
+      </div>
     </div>
   );
 };

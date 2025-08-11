@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Layout overrides for centered hero and responsive header */
+.framer-d9hw3d {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.framer-17y5v30 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.framer-6jl1q8,
+.framer-1d8rgyn,
+.framer-9wme8j {
+  text-align: center;
+}
+
+.framer-9wme8j {
+  display: flex;
+  justify-content: center;
+}

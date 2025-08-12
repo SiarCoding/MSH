@@ -2395,7 +2395,7 @@ var Component5 = /* @__PURE__ */ React5.forwardRef(function (props, ref) {
 														"var(--extracted-r6o4lv, var(--token-7f5b7011-acac-4051-97f5-7a6faa0b26dc, rgba(18, 18, 18, 0.8)))",
 												}}
 											>
-												{"Our Service"}
+												{"Unsere Leistungen"}
 											</motion6.p>
 										</React5.Fragment>
 									</RichText4>
@@ -2417,9 +2417,7 @@ var Component5 = /* @__PURE__ */ React5.forwardRef(function (props, ref) {
 												className={"framer-styles-preset-rdnt0j"}
 												data-styles-preset={"wIgsXR7Fc"}
 											>
-												{
-													"Comprehensive Architectural Solutions from Concept to Completion"
-												}
+												{"Umfassende Betreuung für Ihre Kapitalanlage"}
 											</motion6.h2>
 										</React5.Fragment>
 									</RichText4>
@@ -2449,7 +2447,7 @@ var Component5 = /* @__PURE__ */ React5.forwardRef(function (props, ref) {
 												data-styles-preset={"qA7GDH1GX"}
 											>
 												{
-													"At Titen, we provide end-to-end architectural services that blend creativity, functionality, and sustainability. Whether you're envisioning a modern home, a commercial landmark, or an innovative urban space, we bring expertise and precision to every project."
+													"Wir bieten Ihnen eine Rundum-Betreuung für Ihre Kapitalanlage in Denkmalimmobilien. Von der Objektauswahl über die Finanzierung bis hin zur Sanierung und Vermietung – wir sind Ihr verlässlicher Partner."
 												}
 											</motion6.p>
 										</React5.Fragment>
@@ -2539,7 +2537,7 @@ var Component5 = /* @__PURE__ */ React5.forwardRef(function (props, ref) {
 													scopeId={"dKghMdWSg"}
 												>
 													{_jsx6(stdin_default, {
-														A1mdPRDCS: "See all services",
+														A1mdPRDCS: "Alle Leistungen",
 														height: "100%",
 														id: "aBVXXZyFI",
 														KKQ6Z0zNX: resolvedLinks[0],
@@ -2713,25 +2711,25 @@ var Component5 = /* @__PURE__ */ React5.forwardRef(function (props, ref) {
 									>
 										{_jsx6(stdin_default4, {
 											aeJRtSyFf:
-												"We integrate eco-friendly materials and energy-efficient solutions to create responsible, lasting architecture.",
-											B1qaK7S3F: "Adaptability",
-											FOQQnJpS_: "Sustainable Practices",
-											FYGJkI0QY: "Client-Centric Approach",
+														"Nutzen Sie die erhöhten Abschreibungen für denkmalgeschützte Objekte.",
+													B1qaK7S3F: "Vermietung & Verwaltung",
+													FOQQnJpS_: "Steuerliche AfA",
+													FYGJkI0QY: "Denkmal-Sanierung",
 											height: "100%",
 											id: "Aqp6Oopzj",
 											layoutId: "Aqp6Oopzj",
 											QA8qOg8DS:
-												"We push creative boundaries to deliver unique, forward-thinking architectural solutions.",
+														"Wir beraten Sie bei der Auswahl renditestarker Immobilien in Dresden.",
 											style: {
 												width: "100%",
 											},
 											ToFNsiDl0:
-												"Your vision is our priority\u2014we collaborate closely to ensure personalized, tailored designs.",
+														"Historische Gebäude werden von uns mit höchster Sorgfalt modernisiert.",
 											variant: "kqV8KQJCk",
 											width: "100%",
 											XqUQgQcZw:
-												"Our designs evolve with changing needs, ensuring flexibility and future-proof solutions.",
-											yfnFsD0zv: "Innovative Design",
+														"Wir kümmern uns um die Vermietung und Verwaltung Ihrer Immobilie.",
+													yfnFsD0zv: "Kapitalanlage",
 										})}
 									</SmartComponentScopedContainer4>
 								</ComponentViewportProvider4>
@@ -2906,7 +2904,7 @@ var Component5 = /* @__PURE__ */ React5.forwardRef(function (props, ref) {
 												Kxgd5dX8G:
 													"https://framerusercontent.com/assets/v9AJ9QDAVxlfeZvrmT5L6X1m3I.pdf",
 												layoutId: "ZuIGfRFXW",
-												sj9ZoXu_c: "Download our brochure",
+												sj9ZoXu_c: "Broschüre herunterladen",
 												width: "100%",
 											})}
 										</SmartComponentScopedContainer4>

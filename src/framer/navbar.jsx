@@ -209,252 +209,60 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 							layoutDependency={layoutDependency}
 							layoutId={"iyPx0zGgm"}
 						>
-							<ResolveLinks
-								links={[
-									{
-										href: {
-											webPageId: "augiA20Il",
-										},
-										implicitPathVariables: void 0,
-									},
-								]}
-							>
-								{(resolvedLinks) => (
-									<ComponentViewportProvider
-										height={16}
-										y={
-											(componentViewport?.y || 0) +
-											(0 + ((componentViewport?.height || 34) - 0 - 16) / 2) +
-											0
-										}
-									>
-										<SmartComponentScopedContainer
-											className={"framer-1s0mpxc-container"}
-											layoutDependency={layoutDependency}
-											layoutId={"ho6_R0OGS-container"}
-											nodeId={"ho6_R0OGS"}
-											rendersWithMotion={true}
-											scopeId={"gk7Fjcsw6"}
-										>
-											{_jsx(stdin_default2, {
-												ccL75Jviw: resolvedLinks[0],
-												height: "100%",
-												id: "ho6_R0OGS",
-												layoutId: "ho6_R0OGS",
-												RoZ80uGGd: QMt9cTb7J,
-												uIJ76_ZdU: "Startseite",
-												variant: j3CchF9t5gwVi4QB11,
-												width: "100%",
-											})}
-										</SmartComponentScopedContainer>
-									</ComponentViewportProvider>
-								)}
-							</ResolveLinks>
-							<ResolveLinks
-								links={[
-									{
-										href: {
-											webPageId: "RmdKiVesO",
-										},
-										implicitPathVariables: void 0,
-									},
-								]}
-							>
-								{(resolvedLinks1) => (
-									<ComponentViewportProvider
-										height={16}
-										y={
-											(componentViewport?.y || 0) +
-											(0 + ((componentViewport?.height || 34) - 0 - 16) / 2) +
-											0
-										}
-									>
-										<SmartComponentScopedContainer
-											className={"framer-12fpspo-container"}
-											layoutDependency={layoutDependency}
-											layoutId={"zSZIm5ORB-container"}
-											nodeId={"zSZIm5ORB"}
-											rendersWithMotion={true}
-											scopeId={"gk7Fjcsw6"}
-										>
-											{_jsx(stdin_default2, {
-												ccL75Jviw: resolvedLinks1[0],
-												height: "100%",
-												id: "zSZIm5ORB",
-												layoutId: "zSZIm5ORB",
-												RoZ80uGGd: QMt9cTb7J,
-												uIJ76_ZdU: "About",
-												variant: EOVNsc42UgwVi4QB11,
-												width: "100%",
-											})}
-										</SmartComponentScopedContainer>
-									</ComponentViewportProvider>
-								)}
-							</ResolveLinks>
-							<ResolveLinks
-								links={[
-									{
-										href: {
-											webPageId: "TpyOCMB_G",
-										},
-										implicitPathVariables: void 0,
-									},
-								]}
-							>
-								{(resolvedLinks2) => (
-									<ComponentViewportProvider
-										height={16}
-										y={
-											(componentViewport?.y || 0) +
-											(0 + ((componentViewport?.height || 34) - 0 - 16) / 2) +
-											0
-										}
-									>
-										<SmartComponentScopedContainer
-											className={"framer-12lcwjb-container"}
-											layoutDependency={layoutDependency}
-											layoutId={"mNU9SbejT-container"}
-											nodeId={"mNU9SbejT"}
-											rendersWithMotion={true}
-											scopeId={"gk7Fjcsw6"}
-										>
-											{_jsx(stdin_default2, {
-												ccL75Jviw: resolvedLinks2[0],
-												height: "100%",
-												id: "mNU9SbejT",
-												layoutId: "mNU9SbejT",
-												RoZ80uGGd: QMt9cTb7J,
-												uIJ76_ZdU: "Services",
-												variant: pP3Nd92E8gwVi4QB11,
-												width: "100%",
-											})}
-										</SmartComponentScopedContainer>
-									</ComponentViewportProvider>
-								)}
-							</ResolveLinks>
-							<ResolveLinks
-								links={[
-									{
-										href: {
-											webPageId: "wwtpvR9H7",
-										},
-										implicitPathVariables: void 0,
-									},
-								]}
-							>
-								{(resolvedLinks3) => (
-									<ComponentViewportProvider
-										height={16}
-										y={
-											(componentViewport?.y || 0) +
-											(0 + ((componentViewport?.height || 34) - 0 - 16) / 2) +
-											0
-										}
-									>
-										<SmartComponentScopedContainer
-											className={"framer-1duvd6b-container"}
-											layoutDependency={layoutDependency}
-											layoutId={"t1cM0CiSM-container"}
-											nodeId={"t1cM0CiSM"}
-											rendersWithMotion={true}
-											scopeId={"gk7Fjcsw6"}
-										>
-											{_jsx(stdin_default2, {
-												ccL75Jviw: resolvedLinks3[0],
-												height: "100%",
-												id: "t1cM0CiSM",
-												layoutId: "t1cM0CiSM",
-												RoZ80uGGd: QMt9cTb7J,
-												uIJ76_ZdU: "Projects",
-												variant: iwk7G6PyWgwVi4QB11,
-												width: "100%",
-											})}
-										</SmartComponentScopedContainer>
-									</ComponentViewportProvider>
-								)}
-							</ResolveLinks>
-							<ResolveLinks
-								links={[
-									{
-										href: {
-											webPageId: "i2kvab7hr",
-										},
-										implicitPathVariables: void 0,
-									},
-								]}
-							>
-								{(resolvedLinks4) => (
-									<ComponentViewportProvider
-										height={16}
-										y={
-											(componentViewport?.y || 0) +
-											(0 + ((componentViewport?.height || 34) - 0 - 16) / 2) +
-											0
-										}
-									>
-										<SmartComponentScopedContainer
-											className={"framer-1vr5eub-container"}
-											layoutDependency={layoutDependency}
-											layoutId={"JP4iWj7uP-container"}
-											nodeId={"JP4iWj7uP"}
-											rendersWithMotion={true}
-											scopeId={"gk7Fjcsw6"}
-										>
-											{_jsx(stdin_default2, {
-												ccL75Jviw: resolvedLinks4[0],
-												height: "100%",
-												id: "JP4iWj7uP",
-												layoutId: "JP4iWj7uP",
-												RoZ80uGGd: QMt9cTb7J,
-												uIJ76_ZdU: "Blog",
-												variant: ES3Bak9WKgwVi4QB11,
-												width: "100%",
-											})}
-										</SmartComponentScopedContainer>
-									</ComponentViewportProvider>
-								)}
-							</ResolveLinks>
-							<ResolveLinks
-								links={[
-									{
-										href: {
-											webPageId: "WOrYUhfBH",
-										},
-										implicitPathVariables: void 0,
-									},
-								]}
-							>
-								{(resolvedLinks5) => (
-									<ComponentViewportProvider
-										height={16}
-										y={
-											(componentViewport?.y || 0) +
-											(0 + ((componentViewport?.height || 34) - 0 - 16) / 2) +
-											0
-										}
-									>
-										<SmartComponentScopedContainer
-											className={"framer-w30xy1-container"}
-											layoutDependency={layoutDependency}
-											layoutId={"e7VqSiLxL-container"}
-											nodeId={"e7VqSiLxL"}
-											rendersWithMotion={true}
-											scopeId={"gk7Fjcsw6"}
-										>
-											{_jsx(stdin_default2, {
-												ccL75Jviw: resolvedLinks5[0],
-												height: "100%",
-												id: "e7VqSiLxL",
-												layoutId: "e7VqSiLxL",
-												RoZ80uGGd: QMt9cTb7J,
-												uIJ76_ZdU: "Contact",
-												variant: Gso7DTzUqgwVi4QB11,
-												width: "100%",
-											})}
-										</SmartComponentScopedContainer>
-									</ComponentViewportProvider>
-								)}
-							</ResolveLinks>
+							<ComponentViewportProvider>
+								<SmartComponentScopedContainer>
+									<_jsx(stdin_default2, {
+										ccL75Jviw: "#value-proposition",
+										uIJ76_ZdU: "Über Uns",
+										RoZ80uGGd: QMt9cTb7J,
+									})}
+								</SmartComponentScopedContainer>
+							</ComponentViewportProvider>
+							<ComponentViewportProvider>
+								<SmartComponentScopedContainer>
+									<_jsx(stdin_default2, {
+										ccL75Jviw: "#process",
+										uIJ76_ZdU: "Leistungen",
+										RoZ80uGGd: QMt9cTb7J,
+									})}
+								</SmartComponentScopedContainer>
+							</ComponentViewportProvider>
+							<ComponentViewportProvider>
+								<SmartComponentScopedContainer>
+									<_jsx(stdin_default2, {
+										ccL75Jviw: "#tax-calculator",
+										uIJ76_ZdU: "Steuer-Vorteil",
+										RoZ80uGGd: QMt9cTb7J,
+									})}
+								</SmartComponentScopedContainer>
+							</ComponentViewportProvider>
+							<ComponentViewportProvider>
+								<SmartComponentScopedContainer>
+									<_jsx(stdin_default2, {
+										ccL75Jviw: "#team",
+										uIJ76_ZdU: "Team",
+										RoZ80uGGd: QMt9cTb7J,
+									})}
+								</SmartComponentScopedContainer>
+							</ComponentViewportProvider>
+							<ComponentViewportProvider>
+								<SmartComponentScopedContainer>
+									<_jsx(stdin_default2, {
+										ccL75Jviw: "#faq",
+										uIJ76_ZdU: "FAQ",
+										RoZ80uGGd: QMt9cTb7J,
+									})}
+								</SmartComponentScopedContainer>
+							</ComponentViewportProvider>
+							<ComponentViewportProvider>
+								<SmartComponentScopedContainer>
+									<_jsx(stdin_default2, {
+										ccL75Jviw: "#cta",
+										uIJ76_ZdU: "Kontakt",
+										RoZ80uGGd: QMt9cTb7J,
+									})}
+								</SmartComponentScopedContainer>
+							</ComponentViewportProvider>
 						</motion.nav>
 						<motion.div
 							className={"framer-vsrz3h"}

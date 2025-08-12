@@ -234,6 +234,7 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 						layoutDependency={layoutDependency}
 						layoutId={"ZzWXwJS0V"}
 						ref={refBinding}
+						id="value-proposition"
 						style={{
 							...style,
 						}}
@@ -293,7 +294,7 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 													"var(--extracted-r6o4lv, var(--token-7f5b7011-acac-4051-97f5-7a6faa0b26dc, rgba(18, 18, 18, 0.8)))",
 											}}
 										>
-												{"Über uns"}
+												{"Unsere Philosophie"}
 										</motion.p>
 									</React.Fragment>
 								</RichText>
@@ -315,7 +316,7 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 											className={"framer-styles-preset-rdnt0j"}
 											data-styles-preset={"wIgsXR7Fc"}
 										>
-												{"Gestalten Sie mit uns die Zukunft Ihrer Kapitalanlage"}
+												{"Ihr Partner für wertstabile Kapitalanlagen in Denkmalimmobilien"}
 										</motion.h2>
 									</React.Fragment>
 								</RichText>
@@ -390,9 +391,9 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 										scopeId={"pwZUQM1DY"}
 									>
 										{_jsx(stdin_default3, {
-												auZOkYfuS: "Unsere Vision",
+											auZOkYfuS: "Steuervorteile nutzen",
 											Ceh50lUWz:
-													"Wir schaffen nachhaltige Werte durch die Sanierung von Denkmalimmobilien und bieten Ihnen eine sichere Kapitalanlage mit attraktiven Steuervorteilen.",
+												"Profitieren Sie von hohen Abschreibungen und wandeln Sie Ihre Steuerlast in privates Vermögen um.",
 											height: "100%",
 											id: "Nym5G7fg6",
 											layoutId: "Nym5G7fg6",
@@ -470,9 +471,9 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 										scopeId={"pwZUQM1DY"}
 									>
 										{_jsx(stdin_default3, {
-												auZOkYfuS: "Unsere Mission",
+											auZOkYfuS: "Nachhaltige Wertanlage",
 											Ceh50lUWz:
-													"Wir begleiten Sie von der Auswahl des passenden Objekts bis zur finalen Umsetzung und sorgen für eine transparente und reibungslose Abwicklung.",
+												"Investieren Sie in Immobilien mit historischem Wert und profitieren Sie von einer inflationssicheren Anlage.",
 											height: "100%",
 											id: "iVkvmQYqy",
 											layoutId: "iVkvmQYqy",
@@ -550,9 +551,9 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 										scopeId={"pwZUQM1DY"}
 									>
 										{_jsx(stdin_default3, {
-												auZOkYfuS: "Unsere Werte",
+											auZOkYfuS: "Rundum-Sorglos-Paket",
 											Ceh50lUWz:
-													"Integrität, Nachhaltigkeit und höchste Qualitätsstandards sind die Grundpfeiler unserer Arbeit. Ihre Zufriedenheit ist unser oberstes Ziel.",
+												"Von der Finanzierung bis zur Vermietung – wir bieten Ihnen einen umfassenden Service aus einer Hand.",
 											height: "100%",
 											id: "HzVRbrw_J",
 											layoutId: "HzVRbrw_J",
@@ -620,7 +621,7 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 													}}
 												>
 													{
-															"Bei MSH Dresden verstehen wir, dass eine Kapitalanlage mehr ist als nur eine Investition. Es geht um Vertrauen, Sicherheit und eine langfristige Partnerschaft."
+														"Bei MSH Dresden verstehen wir, dass eine Kapitalanlage mehr ist als nur eine Investition. Es geht um Vertrauen, Sicherheit und eine langfristige Partnerschaft."
 													}
 												</motion.p>
 											</React.Fragment>
@@ -851,7 +852,7 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 													}}
 												>
 													{
-															"Unser erfahrenes Team aus Architekten, Bauleitern und Finanzexperten arbeitet Hand in Hand, um Ihr Investment zum Erfolg zu führen."
+														"Unser erfahrenes Team aus Architekten, Bauleitern und Finanzexperten arbeitet Hand in Hand, um Ihr Investment zum Erfolg zu führen."
 													}
 												</motion.p>
 											</React.Fragment>
@@ -1004,7 +1005,7 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 													}}
 												>
 													{
-															"Ob stilvolle Altbauwohnung oder repräsentatives Geschäftshaus – wir finden für Sie das passende Denkmalobjekt mit hohem Wertsteigerungspotenzial."
+														"Ob stilvolle Altbauwohnung oder repräsentatives Geschäftshaus – wir finden für Sie das passende Denkmalobjekt mit hohem Wertsteigerungspotenzial."
 													}
 												</motion.p>
 											</React.Fragment>
@@ -1103,7 +1104,7 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 														scopeId={"pwZUQM1DY"}
 													>
 														{_jsx(stdin_default, {
-																A1mdPRDCS: "Mehr über uns",
+															A1mdPRDCS: "Mehr über uns",
 															height: "100%",
 															id: "zJ1eUvURL",
 															KKQ6Z0zNX: resolvedLinks[0],
@@ -1214,7 +1215,7 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 														scopeId={"pwZUQM1DY"}
 													>
 														{_jsx(stdin_default2, {
-																EpDo0tZXR: "Unsere Projekte",
+															EpDo0tZXR: "Unsere Projekte",
 															height: "100%",
 															id: "VdCDBq0iZ",
 															layoutId: "VdCDBq0iZ",
@@ -1285,13 +1286,13 @@ var css4 = [
 	...css2,
 ];
 var FramerpwZUQM1DY = withCSS(Component, css4, "framer-upyNL");
-var stdin_default4 = FramerpwZUQM1DY;
-FramerpwZUQM1DY.displayName = "ABOUT";
-FramerpwZUQM1DY.defaultProps = {
+var ValueProposition = FramerpwZUQM1DY;
+ValueProposition.displayName = "ValueProposition";
+ValueProposition.defaultProps = {
 	height: 1304,
 	width: 1200,
 };
-addPropertyControls(FramerpwZUQM1DY, {
+addPropertyControls(ValueProposition, {
 	variant: {
 		options: ["ZzWXwJS0V", "YTZRxEoIr", "EEBwvvly1"],
 		optionTitles: ["Desktop", "Tablet", "Phone"],
@@ -1300,7 +1301,7 @@ addPropertyControls(FramerpwZUQM1DY, {
 	},
 });
 addFonts(
-	FramerpwZUQM1DY,
+	ValueProposition,
 	[
 		{
 			explicitInter: true,
@@ -1399,7 +1400,7 @@ function ComponentWithRoot({ locale, ...rest }) {
 			locale={locale}
 			locales={locales}
 		>
-			{jsx(stdin_default4, {
+			{jsx(ValueProposition, {
 				...rest,
 			})}
 		</ContextProviders>
@@ -1433,13 +1434,13 @@ ComponentWithRoot.Responsive = ({ locale, ...rest }) => {
 			locales={locales}
 		>
 			<WithFramerBreakpoints
-				Component={stdin_default4}
+				Component={ValueProposition}
 				variants={defaultResponsiveVariants}
 				{...rest}
 			/>
 		</ContextProviders>
 	);
 };
-Object.assign(ComponentWithRoot, stdin_default4);
-var about_default = ComponentWithRoot;
-export { about_default as default };
+Object.assign(ComponentWithRoot, ValueProposition);
+var value_proposition_default = ComponentWithRoot;
+export { value_proposition_default as default };

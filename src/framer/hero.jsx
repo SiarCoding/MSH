@@ -4904,6 +4904,7 @@ var Component3 = /* @__PURE__ */ React3.forwardRef(function (props, ref) {
 													"var(--token-2d9fdd1c-9481-4d00-acc8-5058d9aa515e, rgb(255, 255, 255))",
 												"--framer-link-text-color": "rgb(0, 153, 255)",
 												"--framer-link-text-decoration": "underline",
+												textAlign: "center",
 											}}
 											verticalAlignment={"top"}
 											withExternalLayout={true}
@@ -4917,7 +4918,7 @@ var Component3 = /* @__PURE__ */ React3.forwardRef(function (props, ref) {
 															"var(--extracted-gdpscs, var(--token-2d9fdd1c-9481-4d00-acc8-5058d9aa515e, rgb(255, 255, 255)))",
 													}}
 												>
-													{"Wandeln Sie Ihre Steuerlast in Verm\xF6gen um"}
+													{"Ihre Kapitalanlage in Denkmal-Immobilien"}
 												</motion3.h1>
 											</React3.Fragment>
 										</RichText2>
@@ -4947,7 +4948,7 @@ var Component3 = /* @__PURE__ */ React3.forwardRef(function (props, ref) {
 													}}
 												>
 													{
-														"Innovators in architecture and construction. We craft bold, inspired structures with precision and creativity. Build the future with us."
+														"MSH Dresden ist Ihr Partner für Kapitalanlagen in denkmalgeschützte Immobilien. Wir wandeln Ihre Steuerlast in nachhaltige Werte um."
 													}
 												</motion3.p>
 											</React3.Fragment>
@@ -5171,7 +5172,7 @@ var Component3 = /* @__PURE__ */ React3.forwardRef(function (props, ref) {
 																	"var(--extracted-r6o4lv, var(--token-2d9fdd1c-9481-4d00-acc8-5058d9aa515e, rgb(255, 255, 255)))",
 															}}
 														>
-															{"200"}
+															{"50+"}
 														</motion3.p>
 													</React3.Fragment>
 												</RichText2>
@@ -5199,7 +5200,7 @@ var Component3 = /* @__PURE__ */ React3.forwardRef(function (props, ref) {
 																	"var(--extracted-1lwpl3i, var(--token-2d9fdd1c-9481-4d00-acc8-5058d9aa515e, rgb(255, 255, 255)))",
 															}}
 														>
-															{"+"}
+															{""}
 														</motion3.h5>
 													</React3.Fragment>
 												</RichText2>
@@ -5228,7 +5229,7 @@ var Component3 = /* @__PURE__ */ React3.forwardRef(function (props, ref) {
 																"var(--extracted-r6o4lv, var(--token-2d9fdd1c-9481-4d00-acc8-5058d9aa515e, rgb(255, 255, 255)))",
 														}}
 													>
-														{"Project completed"}
+														{"Jahre Erfahrung"}
 													</motion3.p>
 												</React3.Fragment>
 											</RichText2>
@@ -5269,7 +5270,7 @@ var Component3 = /* @__PURE__ */ React3.forwardRef(function (props, ref) {
 																	"var(--extracted-r6o4lv, var(--token-2d9fdd1c-9481-4d00-acc8-5058d9aa515e, rgb(255, 255, 255)))",
 															}}
 														>
-															{"15"}
+															{"100+"}
 														</motion3.p>
 													</React3.Fragment>
 												</RichText2>
@@ -5297,7 +5298,7 @@ var Component3 = /* @__PURE__ */ React3.forwardRef(function (props, ref) {
 																	"var(--extracted-1lwpl3i, var(--token-2d9fdd1c-9481-4d00-acc8-5058d9aa515e, rgb(255, 255, 255)))",
 															}}
 														>
-															{"+"}
+															{""}
 														</motion3.h5>
 													</React3.Fragment>
 												</RichText2>
@@ -5326,7 +5327,7 @@ var Component3 = /* @__PURE__ */ React3.forwardRef(function (props, ref) {
 																"var(--extracted-r6o4lv, var(--token-2d9fdd1c-9481-4d00-acc8-5058d9aa515e, rgb(255, 255, 255)))",
 														}}
 													>
-														{"Cities transformed"}
+														{"Zufriedene Kunden"}
 													</motion3.p>
 												</React3.Fragment>
 											</RichText2>
@@ -5577,7 +5578,7 @@ var Component3 = /* @__PURE__ */ React3.forwardRef(function (props, ref) {
 															layoutId: "TquZx0Ign",
 															RoZ80uGGd:
 																"var(--token-2d9fdd1c-9481-4d00-acc8-5058d9aa515e, rgb(255, 255, 255))",
-															uIJ76_ZdU: "More testimonials",
+															uIJ76_ZdU: "Weitere Bewertungen",
 															variant: "SUqi2ox3t",
 															width: "100%",
 															...addPropertyOverrides2(
@@ -5657,12 +5658,12 @@ var css9 = [
 	".framer-G8QhL.framer-1nd88ba, .framer-G8QhL .framer-1nd88ba { display: block; }",
 	".framer-G8QhL.framer-15yv4b4 { align-content: center; align-items: center; display: flex; flex-direction: column; flex-wrap: nowrap; gap: 10px; height: 800px; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }",
 	".framer-G8QhL .framer-en1u43 { align-content: flex-end; align-items: flex-end; display: flex; flex: 1 0 0px; flex-direction: row; flex-wrap: nowrap; gap: 10px; height: 1px; justify-content: center; overflow: hidden; padding: 50px; position: relative; width: 100%; z-index: 2; }",
-	".framer-G8QhL .framer-1l573 { align-content: flex-start; align-items: flex-start; display: flex; flex: 1 0 0px; flex-direction: row; flex-wrap: nowrap; height: min-content; justify-content: space-between; max-width: 1440px; overflow: hidden; padding: 0px; position: relative; width: 1px; }",
-	".framer-G8QhL .framer-10gx6kp { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 48px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 600px; }",
-	".framer-G8QhL .framer-6jl1q8, .framer-G8QhL .framer-7zr36j { align-content: flex-start; align-items: flex-start; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 24px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }",
+	".framer-G8QhL .framer-1l573 { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 48px; height: min-content; justify-content: center; max-width: 1440px; overflow: hidden; padding: 0px; position: relative; width: 1px; }",
+	".framer-G8QhL .framer-10gx6kp { align-content: center; align-items: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 48px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 600px; }",
+	".framer-G8QhL .framer-6jl1q8, .framer-G8QhL .framer-7zr36j { align-content: center; align-items: center; text-align: center; display: flex; flex: none; flex-direction: column; flex-wrap: nowrap; gap: 24px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }",
 	".framer-G8QhL .framer-13d0c5a, .framer-G8QhL .framer-1gvvwzl, .framer-G8QhL .framer-1jrml5s { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }",
-	".framer-G8QhL .framer-1d8rgyn { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 90%; word-break: break-word; word-wrap: break-word; }",
-	".framer-G8QhL .framer-9wme8j { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 24px; height: min-content; justify-content: flex-start; overflow: hidden; padding: 0px; position: relative; width: 100%; }",
+	".framer-G8QhL .framer-1d8rgyn { flex: none; height: auto; position: relative; white-space: pre-wrap; width: 100%; word-break: break-word; word-wrap: break-word; }",
+	".framer-G8QhL .framer-9wme8j { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 24px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }",
 	".framer-G8QhL .framer-jnnws6-container, .framer-G8QhL .framer-nog6gh-container { flex: none; height: auto; position: relative; width: auto; }",
 	".framer-G8QhL .framer-1r2nh8r { align-content: center; align-items: center; display: flex; flex: 1 0 0px; flex-direction: column; flex-wrap: nowrap; gap: 64px; height: min-content; justify-content: center; max-width: 350px; overflow: hidden; padding: 0px; position: relative; width: 1px; }",
 	".framer-G8QhL .framer-sslkbv { align-content: center; align-items: center; display: flex; flex: none; flex-direction: row; flex-wrap: nowrap; gap: 18px; height: min-content; justify-content: center; overflow: hidden; padding: 0px; position: relative; width: 100%; }",
@@ -5673,7 +5674,7 @@ var css9 = [
 	".framer-G8QhL .framer-s1yp9s-container { flex: none; height: 100%; left: calc(50.00000000000002% - 100% / 2); position: absolute; top: calc(50.00000000000002% - 100% / 2); width: 100%; }",
 	".framer-G8QhL.framer-v-16sy20h.framer-15yv4b4 { height: 972px; width: 100%; }",
 	".framer-G8QhL.framer-v-16sy20h .framer-en1u43 { padding: 40px 30px 40px 30px; }",
-	".framer-G8QhL.framer-v-16sy20h .framer-1l573 { gap: 48px; justify-content: center; }",
+	".framer-G8QhL.framer-v-16sy20h .framer-1l573 { gap: 48px; justify-content: center; flex-direction: row; }",
 	".framer-G8QhL.framer-v-16sy20h .framer-10gx6kp { flex: 1 0 0px; width: 1px; }",
 	".framer-G8QhL.framer-v-16sy20h .framer-1r2nh8r { max-width: 275px; }",
 	".framer-G8QhL.framer-v-h68h25.framer-15yv4b4 { height: 917px; width: 100%; }",

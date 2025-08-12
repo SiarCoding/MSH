@@ -337,7 +337,7 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 														"var(--extracted-r6o4lv, var(--token-7f5b7011-acac-4051-97f5-7a6faa0b26dc, rgba(18, 18, 18, 0.8)))",
 												}}
 											>
-												{"Our Projects"}
+												{"Unsere Projekte"}
 											</motion.p>
 										</React.Fragment>
 									</RichText>
@@ -359,9 +359,7 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 												className={"framer-styles-preset-rdnt0j"}
 												data-styles-preset={"wIgsXR7Fc"}
 											>
-												{
-													"Bringing Architectural Visions to Life with Precision & Creativity"
-												}
+												{"Denkmalimmobilien als Kapitalanlage in Dresden"}
 											</motion.h2>
 										</React.Fragment>
 									</RichText>
@@ -443,7 +441,7 @@ var Component = /* @__PURE__ */ React.forwardRef(function (props, ref) {
 												scopeId={"Js_clmMrr"}
 											>
 												{_jsx(stdin_default, {
-													A1mdPRDCS: "All projects",
+													A1mdPRDCS: "Alle Projekte",
 													height: "100%",
 													id: "tbgxD_Q4n",
 													KKQ6Z0zNX: resolvedLinks[0],
